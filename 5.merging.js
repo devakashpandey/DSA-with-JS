@@ -1,0 +1,2 @@
+// MERGING TWO ARRAYS MANUALLY ---------------->>>
+
