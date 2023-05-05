@@ -12,3 +12,8 @@ for (let i = 0; i < data2.length; i++) {
 }
 
 console.log(data3);
+
+// SHORTCUT WITH SPREAD OPERATOR -------------->>
+
+let mergeData = [...data, ...data2];
+console.log(mergeData);
