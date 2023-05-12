@@ -49,8 +49,3 @@ push(11);
 pop();
 
 console.log(data); // 20 added in data array
-
-// QUESTION ----------->> (REVERSING ARRAY)
-
-let stackData = [];
-let currStackSize = stackData.length;
