@@ -29,3 +29,4 @@ str = str.split(""); // converting string into array (["A", "k","a","s","h"])
 reverseString(str);
 
 console.log(str); // ["h", "s", "a". "k", "A"]
+console.log(str.join("")); // Array to string // hsakA
