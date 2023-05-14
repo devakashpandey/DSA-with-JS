@@ -1,4 +1,4 @@
-// SEARCHING IN ARRAY ----------->>
+// SEARCHING IN ARRAY ----------->> (Liner Searching)
 
 // search the item and give the index number of it
 
